@@ -48,7 +48,7 @@
 
 
 <a href="https://github.com/Anuj-Raghuvanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Raghuvanshi&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Raghuvanshi&langs_count=8&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/Anuj-Raghuvanshi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuj-Raghuvanshi&show_icons=true&theme=dracula&line_height=27" alt="Anuj's github stats"/>
