@@ -45,13 +45,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 
 
-
-
-<a href="https://github.com/Anuj-Raghuvanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Raghuvanshi&langs_count=8&layout=compact&theme=dark" />
-</a>
 <a href="https://github.com/Anuj-Raghuvanshi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuj-Raghuvanshi&show_icons=true&theme=dracula&line_height=27" alt="Anuj's github stats"/>
+</a>
+<a href="https://github.com/Anuj-Raghuvanshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Raghuvanshi&langs_count=8&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/Anuj-Raghuvanshi/cordova-clipboard-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuj-Raghuvanshi&repo=cordova-clipboard-plugin&theme=dark" />
