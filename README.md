@@ -6,10 +6,10 @@
 <a href="https://www.linkedin.com/in/itsanujraghuvanshi/">
   <img align="left" alt="Anuj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Anuj-Raghuvanshi">
+<a href="https://github.com/anujraghuvanshi">
   <img align="left" alt="Anuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/7078456/anuj-raghuvanshi">
+<a href="https://stackoverflow.com/users/7078456/anujraghuvanshi">
   <img align="left" alt="Anuj's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.instagram.com/its_anuj_raghuvanshi/">
@@ -31,7 +31,7 @@
 
 [![Twitter: itsMrAnujSingh](https://img.shields.io/twitter/follow/itsMrAnujSingh?style=social)](https://twitter.com/itsMrAnujSingh)
 [![Linkedin: itsanujraghuvanshi](https://img.shields.io/badge/-itsanujraghuvanshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsanujraghuvanshi/)](https://www.linkedin.com/in/itsanujraghuvanshi/)
-[![GitHub Anuj-Raghuvanshi](https://img.shields.io/github/followers/Anuj-Raghuvanshi?label=follow&style=social)](https://github.com/Anuj-Raghuvanshi)
+[![GitHub anujraghuvanshi](https://img.shields.io/github/followers/anujraghuvanshi?label=follow&style=social)](https://github.com/anujraghuvanshi)
 
 
 **Languages and Tools:**  
@@ -45,14 +45,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 
 
-<a href="https://github.com/Anuj-Raghuvanshi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuj-Raghuvanshi&show_icons=true&theme=dracula&line_height=27" alt="Anuj's github stats"/>
+<a href="https://github.com/anujraghuvanshi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujraghuvanshi&show_icons=true&theme=dracula&line_height=27" alt="Anuj's github stats"/>
 </a>
-<a href="https://github.com/Anuj-Raghuvanshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Raghuvanshi&langs_count=8&layout=compact&theme=dark" />
+<a href="https://github.com/anujraghuvanshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujraghuvanshi&langs_count=8&layout=compact&theme=dark" />
 </a>
-<a href="https://github.com/Anuj-Raghuvanshi/cordova-clipboard-plugin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anuj-Raghuvanshi&repo=cordova-clipboard-plugin&theme=dark" />
+<a href="https://github.com/anujraghuvanshi/cordova-clipboard-plugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujraghuvanshi&repo=cordova-clipboard-plugin&theme=dark" />
 </a>
 
 <div align="center">
