@@ -44,6 +44,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 
+<p align="left"> 
+  <b>Visitors count</b><br>
+  <img src="https://profile-counter.glitch.me/anujraghuvanshi/count.svg" />
+</p>
 
 <a href="https://github.com/anujraghuvanshi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujraghuvanshi&show_icons=true&theme=dracula&line_height=27" alt="Anuj's github stats"/>
