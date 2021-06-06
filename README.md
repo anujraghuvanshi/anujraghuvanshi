@@ -24,7 +24,6 @@
 
 
 - ⚡ Mobile App Developer
-- 🔭 Currently working for [Logiciel Solutions](https://www.logicielsolutions.co.in/).
 - 🌱 Currently learning Flutter.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
