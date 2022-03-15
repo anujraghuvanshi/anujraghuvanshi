@@ -58,6 +58,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujraghuvanshi&repo=cordova-clipboard-plugin&theme=dark" />
 </a>
 
+![](https://activity-graph.herokuapp.com/graph?username=anujraghuvanshi&theme=react-dark&area=true)
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
