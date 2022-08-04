@@ -24,7 +24,7 @@
 
 
 - ⚡ Mobile App Developer
-- 🌱 Currently learning Flutter.
+- 🌱 Currently digging more to JS.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
