@@ -43,6 +43,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png"></code>
 
+### Find me over CLI: 
+<img height="150" width="500" src="https://github.com/anujraghuvanshi/anujraghuvanshi/assets/22232709/09d53d79-60db-43ca-8eaa-c7edaf252b41">
+</br><br/>
 <a href="https://www.buymeacoffee.com/anujraghuvanshi">
  <img align="center" src="https://camo.githubusercontent.com/af57548d9718bcbbfbc814feb621e5d19ae10aa23cf7b297b55c26d0a8a55470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275792532304d6525323061253230436f666665652d6666646430303f7374796c653d666f722d7468652d6261646765266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d626c61636b" alt="By me a coffee"/>
 </a>
