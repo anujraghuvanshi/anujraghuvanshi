@@ -66,7 +66,7 @@
 <a href="https://github.com/anujraghuvanshi/cordova-clipboard-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujraghuvanshi&repo=cordova-clipboard-plugin&theme=dark" />
 </a>
-<a href="https://github.com/anujraghuvanshi/cordova-clipboard-plugin">
+<a href="https://github.com/anujraghuvanshi/JS-Essentials">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujraghuvanshi&repo=JS-Essentials&theme=dark" />
 </a>
 
