@@ -66,6 +66,9 @@
 <a href="https://github.com/anujraghuvanshi/cordova-clipboard-plugin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujraghuvanshi&repo=cordova-clipboard-plugin&theme=dark" />
 </a>
+<a href="https://github.com/anujraghuvanshi/cordova-clipboard-plugin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anujraghuvanshi&repo=JS-Essentials&theme=dark" />
+</a>
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=anujraghuvanshi&theme=react-dark&area=true)
