@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/7078456/anujraghuvanshi">
   <img align="left" alt="Anuj's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/its_anuj_raghuvanshi/">
+<a href="https://www.instagram.com/javascript_essentials">
   <img align="left" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/itsanujraghuvanshi/">
